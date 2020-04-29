@@ -16,7 +16,8 @@ Catch is in metric tons.
 
 Sport catch and releases (with release mortalty) combined. Lots of documentation in sport_rf_seak/r/catch_conversion.R and in Howard et al. 2020 (RIR for sportfish reconstruction project)
 
-###Commercial catch reconstruction:
+
+### Commercial catch reconstruction:
 
 **1888-1984:**
 This analysis assumes that pre-1985, the bycatch of YEI in the halibut fishery was 5% of the IPHC 2C area catch. 5% is based on expert opinion and K Wood's GIS work looking at bycatch rates over space and time and habitat suitability for YEI. It assumes the proportion of halibut catch in inside and outside waters in constant over time, and that bycatch rates have been constant in the halibut fishery (they may have been much higher in early years if YE were highly abundant).
